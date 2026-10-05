@@ -4,10 +4,11 @@ This Privacy Policy governs the collection, use, and sharing of personal informa
 
 # **Information We Collect** 
 
-We collect the following information:
+The information collected is purely to keep functionality of the bot, the following is collected:
 
-- Only messages flagged by the model  
+- Messages flagged by the model (will be sent to the designated config channel)  
 - Action taken for each violation  
+- Person who triggered the punishment  
 - Punishment history of members
 
 # **How We Use Your Information**
@@ -30,7 +31,7 @@ Only server owners and administrators can request data deletion for a guild, ind
 
 We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information. 
 
-All data is hosted on local hardware and will not be sent to third parties
+All data is hosted 100% on local hardware and will not be sent to third parties
 
 # **Changes to this Policy** 
 
@@ -42,4 +43,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 # **Effective Date**  
 
-This Privacy Policy is effective as of 6/10/2026. 
+This Privacy Policy is effective as of 6 Oct 2026\. 
