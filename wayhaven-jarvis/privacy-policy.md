@@ -7,10 +7,11 @@ This Privacy Policy governs the collection, use, and sharing of personal informa
 We only collect the following information:
 
 - Prompts sent to OpenRouter (includes your message and 10 previous messages from the same channel, as well as discord ids, names, and top roles)
+- Usage data like tokens used, time of message, and agent traces
 
 # **How We Use Your Information**
 
-Raw messages are only used for debugging and will never be used for training.
+Raw messages are only used for debugging and usage research, and will never be disclosed or used for training.
 
 # **Sharing Your Information** 
 
@@ -36,4 +37,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 # **Effective Date**  
 
-This Privacy Policy is effective as of 6 Oct 2026\. 
+This Privacy Policy is effective as of 9 Oct 2026\. 
